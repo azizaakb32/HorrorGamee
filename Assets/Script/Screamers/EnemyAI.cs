@@ -64,6 +64,6 @@ public class EnemyAI : MonoBehaviour
             }
         }
 
-        animator.SetFloat("Speed", agent.velocity.magnitude);
+        //animator.SetFloat("Speed", agent.velocity.magnitude);
     }
 }
